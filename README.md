@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React three, Motion**
 
-- 👯 I’m looking to collaborate on [litcollective](https://github.com/tauhidul-sifat/https://github.com/tauhidul-sifat/litcollective.io)
+- 👯 I’m looking to collaborate on [litcollective](https://github.com/tauhidul-sifat/litcollective.io)
 
 - 🤝 I’m looking for help with [gravityteam](https://github.com/tauhidul-sifat/gravityteam.co)
 
